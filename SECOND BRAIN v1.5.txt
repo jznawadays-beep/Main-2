@@ -1,0 +1,707 @@
+SECOND BRAIN v1.5
+SECOND SKIN — SECOND BRAIN v1.5
+GAMEPLAY / MECHANICS / STRATEGY ONLY
+
+==================================================
+CORE PURPOSE
+==================================================
+
+Second Brain is the gameplay reference for Second Skin.
+
+This file contains:
+- confirmed game mechanics
+- player/system rules
+- stats
+- objectives
+- study/exam information
+- strategic discoveries
+- gameplay-relevant permanent knowledge
+
+This file intentionally does NOT contain:
+- chronological story events
+- detailed cutscenes
+- relationship dialogue
+- plot discoveries
+- scene-by-scene story logs
+- detailed Love DLC story progression
+- spoiler-heavy narrative information
+
+Those belong in:
+PLOT_STORY_NOTE.txt
+
+When mechanics and plot overlap, keep only the mechanical
+information necessary to play the game here.
+
+
+==================================================
+1. CORE PLAYER OBJECTIVE
+==================================================
+
+Primary long-term objective:
+- Build a self-funded life with maximum freedom.
+- True financial target: $10,000,000.
+- Freedom is the core end-goal.
+
+Major gameplay paths / endings include:
+- True ending
+- Mixed / neutral outcomes
+- Love-related ending paths
+- Secret endings
+
+Love is NOT required for the main game objective.
+
+The player may pursue romantic content as optional content
+without making it the central objective of the run.
+
+
+==================================================
+2. GAME STRUCTURE
+==================================================
+
+Second Skin is structured around:
+- daily actions
+- stats
+- resources
+- player choices
+- special tasks
+- relationship systems
+- education / study
+- physical development
+- financial progression
+- major decisions
+- long-term endings
+
+Daily actions are a limited resource.
+
+Actions should be allocated according to the current objective
+rather than automatically spreading them across every available
+activity.
+
+
+==================================================
+3. ACTION SYSTEM
+==================================================
+
+Normal action:
+- Costs 1 action.
+
+Super Task:
+- Costs 2 actions.
+
+Special Task:
+- Higher-effort task.
+- Exact results depend on the relevant system.
+- Do not invent multipliers or outcomes that have not been
+  confirmed in gameplay or the manual.
+
+When an activity has an adaptation/efficiency system, repeated
+focused use can improve its efficiency.
+
+
+==================================================
+4. RANK SYSTEM
+==================================================
+
+Daily performance receives a rank.
+
+Known ranks include:
+- S
+- A
+- B
+- lower ranks
+
+Rank evaluates overall daily performance rather than a single
+stat alone.
+
+White is the benchmark.
+
+Important:
+- White is not automatically an enemy.
+- The goal is to outperform White when pursuing competitive
+  objectives.
+- A player's individual daily rank and the final comparison
+  against White are separate calculations.
+
+Example:
+- Ryu and White can both receive A individually.
+- White can still receive S in the final comparison if White's
+  measurable performance was stronger that day.
+
+
+==================================================
+5. WHITE SYSTEM
+==================================================
+
+White functions as the primary benchmark/opponent for performance.
+
+White can spend actions on:
+- study
+- gym
+- diet
+- social activities
+- other available activities
+
+Social activities may provide little or no measurable progress
+once the relevant social stat is already maxed.
+
+The player should compare measurable outcomes rather than assuming
+every action has equal value.
+
+
+==================================================
+6. ENERGY SYSTEM
+==================================================
+
+Energy is a separate resource from actions.
+
+Dense-Core Shake can provide a major temporary energy benefit.
+
+Known state:
+- Consuming 3/4 of a Dense-Core Shake can result in infinite
+  energy for the active duration.
+- Energy should not be confused with action availability.
+
+When infinite energy is active:
+- Energy is no longer the primary bottleneck.
+- Actions can still limit what the player can perform.
+
+
+==================================================
+7. DENSE-CORE SHAKE
+==================================================
+
+Dense-Core Shake:
+- Strong energy/body-condition resource.
+- Can produce an infinite-energy state when enough is consumed.
+- Can improve body condition when paired with proper diet.
+
+Known observation:
+- Repeated use alongside a full proper diet causes body condition
+  to move progressively toward its prime.
+
+Do not invent additional effects.
+
+
+==================================================
+8. STUDY SYSTEM
+==================================================
+
+Study is an action-based system.
+
+Known interaction:
+Study
+→ choose Exam Study
+→ choose Physics / Chemistry / Maths
+→ Confirm
+
+Normal Study:
+- Costs 1 action.
+
+Study Super Task:
+- Costs 2 actions.
+
+IMPORTANT DISCOVERY:
+Study efficiency is NOT static.
+
+If Study is used only occasionally:
+- initial study output can be inefficient.
+
+Repeated/focused Study:
+- allows adaptation.
+- increases Study efficiency.
+- makes later Study actions more productive.
+
+Confirmed gameplay observations:
+- Study efficiency increased by +3 after sustained focused Study.
+- Study efficiency later increased by +2 after another focused
+  Study session.
+- A chapter was completed after repeatedly spending Study actions.
+
+Strategic implication:
+Early actions spent building Study adaptation can increase the
+value of later actions spent on difficult/high-value chapters.
+
+Therefore:
+- Do not judge Study efficiency from a single early attempt.
+- Focused Study can be more valuable than scattered Study.
+- When exam time is short, concentrated Study may be preferable
+  to spreading actions across unrelated activities.
+
+
+==================================================
+9. CURRENT STUDY PROGRESS
+==================================================
+
+Latest confirmed Study progress:
+- 12%
+
+Known completed/covered chapters:
+- Electric Charges & Fields
+- Electromagnetic Waves
+- Magnetism & Matter
+
+The 12% Study value represents actual Study progress/coverage
+rather than being treated as a purely abstract stat.
+
+Coverage and percentage may not correspond exactly to raw chapter
+count because chapters may contribute differently.
+
+
+==================================================
+10. BOARDS 2027 — FIRST TERM
+==================================================
+
+Exam date:
+- September 14, 2026
+
+Current preparation state at latest report:
+- 17 chapters remain after three known covered chapters.
+
+FIRST-TERM PORTION:
+
+PHYSICS — 8 chapters
+
+1. Electric Charges & Fields
+2. Electrostatic Potential & Capacitance
+3. Current Electricity
+4. Moving Charges & Magnetism
+5. Magnetism & Matter
+6. Electromagnetic Induction
+7. Alternating Current
+8. Electromagnetic Waves
+
+
+CHEMISTRY — 6 chapters
+
+1. Solutions
+2. Electrochemistry
+3. Chemical Kinetics
+4. Haloalkanes & Haloarenes
+5. d- & f-Block Elements
+6. Alcohols, Phenols & Ethers
+
+Excluded / marked:
+- Surface Chemistry
+- General Principles & Processes of Isolation of Elements
+
+No questions are expected from the marked chapters.
+
+
+MATHEMATICS — 6 chapters
+
+1. Relations & Functions
+2. Inverse Trigonometric Functions
+3. Matrices
+4. Determinants
+5. Continuity & Differentiability
+6. Applications of Derivatives
+
+
+==================================================
+11. EXAM CHAPTER PRIORITY — "FAT PIG"
+==================================================
+
+Fat Pig rating:
+- Practical estimate of marks potential /10.
+- NOT a guaranteed CBSE chapter-wise mark allocation.
+
+PHYSICS
+
+10/10
+- Moving Charges & Magnetism
+
+9/10
+- Electromagnetic Induction
+- Current Electricity
+
+8/10
+- Electric Charges & Fields
+- Electrostatic Potential & Capacitance
+
+7/10
+- Alternating Current
+
+5/10
+- Magnetism & Matter
+
+3/10
+- Electromagnetic Waves
+
+
+CHEMISTRY
+
+10/10
+- Electrochemistry
+
+9/10
+- Solutions
+- Chemical Kinetics
+
+8/10
+- Alcohols, Phenols & Ethers
+
+7/10
+- Haloalkanes & Haloarenes
+
+6/10
+- d- & f-Block Elements
+
+
+MATHEMATICS
+
+10/10
+- Continuity & Differentiability
+- Applications of Derivatives
+
+8/10
+- Matrices
+- Determinants
+
+6/10
+- Relations & Functions
+
+5/10
+- Inverse Trigonometric Functions
+
+
+==================================================
+12. DIFFICULTY RATINGS
+==================================================
+
+Estimated difficulty for current CBSE-level preparation.
+
+PHYSICS
+- Electric Charges & Fields — 6/10
+- Electrostatic Potential & Capacitance — 6/10
+- Current Electricity — 7/10
+- Moving Charges & Magnetism — 8/10
+- Magnetism & Matter — 4/10
+- Electromagnetic Induction — 7/10
+- Alternating Current — 7/10
+- Electromagnetic Waves — 2/10
+
+CHEMISTRY
+- Solutions — 6/10
+- Electrochemistry — 8/10
+- Chemical Kinetics — 6/10
+- Haloalkanes & Haloarenes — 6/10
+- d- & f-Block Elements — 5/10
+- Alcohols, Phenols & Ethers — 7/10
+
+MATHEMATICS
+- Relations & Functions — 5/10
+- Inverse Trigonometric Functions — 5/10
+- Matrices — 4/10
+- Determinants — 5/10
+- Continuity & Differentiability — 7/10
+- Applications of Derivatives — 8/10
+
+
+==================================================
+13. PRIORITY TIERS
+==================================================
+
+S-TIER
+High marks potential + manageable/high return:
+- Matrices
+- Determinants
+- Solutions
+- Chemical Kinetics
+- Continuity & Differentiability
+- Electric Charges & Fields
+
+A-TIER
+High marks but requires more work:
+- Current Electricity
+- Electromagnetic Induction
+- Electrochemistry
+- Applications of Derivatives
+- Moving Charges & Magnetism
+- Electrostatic Potential & Capacitance
+
+B-TIER
+Important but should not consume disproportionate time:
+- Haloalkanes & Haloarenes
+- Alcohols, Phenols & Ethers
+- d- & f-Block
+- Relations & Functions
+- Magnetism & Matter
+- Alternating Current
+
+C-TIER
+Quick wins / lower priority:
+- Inverse Trigonometric Functions
+- Electromagnetic Waves
+
+
+==================================================
+14. EXAM STUDY STRATEGY
+==================================================
+
+General approach:
+
+1. Secure high-return chapters first.
+2. Use easy/low-difficulty chapters to build Study momentum
+   and adaptation when useful.
+3. Learn/relearn concepts quickly.
+4. Immediately practice CBSE-style questions.
+5. Mark topics:
+   🟢 Solid
+   🟡 Shaky
+    Needs another round
+6. Use later days for mixed practice, timed papers and weak-topic
+   repair.
+7. Final revision should focus on:
+   - formulas
+   - reactions
+   - derivations
+   - definitions
+   - graphs
+   - common question patterns
+   - mistakes
+
+Important:
+The objective is NOT simply to maximize the number of chapters
+touched.
+
+Prioritize marks potential, difficulty, current efficiency and
+actual mastery.
+
+
+==================================================
+15. CURRENT EXAM STRATEGY
+==================================================
+
+At the latest known point:
+- Exam: September 14
+- Study progress: 12%
+- Known completed:
+  - Electric Charges & Fields
+  - Electromagnetic Waves
+  - Magnetism & Matter
+
+Remaining raw chapter count:
+- 17
+
+Because only a limited number of days remain, an average of roughly
+3 chapters/day is required if all remaining chapters are to be
+covered in 6 effective preparation days.
+
+This is an average, NOT a mandatory identical daily quota.
+
+Front-loading easier chapters can reduce the required daily load
+later.
+
+Example strategic idea:
+- Clear low-difficulty/low-priority chapters early.
+- Continue building Study efficiency.
+- Reserve highly efficient Study actions for high-value difficult
+  chapters.
+- Transition toward question practice and revision as the exam
+  approaches.
+
+
+==================================================
+16. LOW-DIFFICULTY CLEANUP
+==================================================
+
+Useful lower-difficulty chapters include:
+
+- Electromagnetic Waves — 2/10 — already covered
+- Matrices — 4/10
+- Magnetism & Matter — 4/10 — already covered
+- Relations & Functions — 5/10
+- Inverse Trigonometric Functions — 5/10
+- d- & f-Block Elements — 5/10
+
+These can be useful for:
+- quick coverage
+- marks farming
+- Study adaptation
+- reducing syllabus clutter
+
+However, difficulty alone should not determine priority.
+
+
+==================================================
+17. STUDY SESSION FORMAT
+==================================================
+
+Preferred learning loop:
+
+Concept
+→ Formula / Method
+→ Example
+→ User solves
+→ Mini-test
+→ Mark weak spots
+
+Avoid excessively long explanations of material the player already
+understands.
+
+The player's two most important academic skills are:
+
+1. Formula recall
+2. Recognizing which formula/method applies to a question
+
+Question practice should emphasize these skills.
+
+
+==================================================
+18. GYM / BODY SYSTEM
+==================================================
+
+Gym contributes to physical development and daily performance.
+
+Known:
+- Super Tasks can be used for gym.
+- Full-body/targeted training can contribute depending on the
+  activity performed.
+
+Body condition has been observed to move toward its prime with
+consistent proper diet + Dense-Core use.
+
+Do not invent exact stat multipliers unless confirmed.
+
+
+==================================================
+19. DIET SYSTEM
+==================================================
+
+Proper diet contributes to body condition.
+
+Dense-Core Shake can enhance the effect of maintaining a proper diet.
+
+Important:
+- Full proper diet is preferable when possible.
+- A partial Dense-Core intake can still provide benefits but may
+  affect daily rank compared with a full intake.
+
+
+==================================================
+20. SOCIAL SYSTEM
+==================================================
+
+Social actions can increase social-related progression.
+
+However:
+- Once a social stat is already maxed, additional social activity
+  may provide little or no measurable progress.
+
+Therefore:
+Do not assume every social action produces meaningful numerical
+progress.
+
+
+==================================================
+21. LOVE DLC
+==================================================
+
+Love DLC is optional.
+
+It is NOT required for:
+- the main freedom objective
+- the $10M objective
+- eventually having a girlfriend
+- completing the main game
+
+The Love DLC can provide additional relationship content and
+potential ending paths.
+
+Important distinction:
+- Love DLC mechanics belong here.
+- Specific Love DLC story events belong in PLOT_STORY_NOTE.txt.
+
+Confirmed plot-related mechanical information:
+- After unlocking the apartment, the manual states there is a 65%
+  chance that the best friend will fall for the player because of
+  a cutscene plot event.
+
+This is recorded here only because the apartment/trigger is a
+mechanically relevant future event.
+
+Do NOT add further story details here.
+
+
+==================================================
+22. WILLPOWER
+==================================================
+
+Willpower can increase when the player pushes through a normal
+comfort boundary.
+
+Confirmed observation:
+- A large +6 Willpower increase occurred after the player pushed
+  through a usual comfort boundary.
+
+Exact formulas for Willpower are unknown unless confirmed.
+
+
+==================================================
+23. SPOILER CONTROL
+==================================================
+
+Second Brain should remain gameplay-focused.
+
+If new information is primarily:
+- a scene
+- dialogue
+- emotional development
+- character behavior
+- plot twist
+- cutscene
+- narrative revelation
+
+→ put it in PLOT_STORY_NOTE.txt.
+
+If new information explains:
+- how an action works
+- how a stat works
+- how a resource works
+- what unlocks what
+- what strategy is effective
+- what the exam system contains
+
+→ put it in SECOND_BRAIN.
+
+
+==================================================
+24. CURRENT RUN SNAPSHOT
+==================================================
+
+Latest known state:
+
+Date:
+- September 8/9, 2026 reporting period
+
+Exam:
+- September 14, 2026
+
+Study:
+- 12%
+- Known covered:
+  - Electric Charges & Fields
+  - Electromagnetic Waves
+  - Magnetism & Matter
+
+Study efficiency:
+- Increased through repeated focused Study.
+- Confirmed increases include +3 and +2.
+
+Current remaining raw chapters:
+- 17
+
+Strategic objective:
+- Continue increasing Study efficiency.
+- Clear manageable chapters where efficient.
+- Attack high-return "Fat Pig" chapters with improved Study
+  efficiency.
+- Transition to question practice/revision before the exam.
+
+
+==================================================
+END OF SECOND BRAIN v1.5
+==================================================
+
+PLOT / STORY MATERIAL BELONGS IN:
+PLOT_STORY_NOTE.txt
